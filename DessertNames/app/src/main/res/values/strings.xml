@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Dessert Names</string>
+    <string name="dessert_name" translatable="false"> 1.0 First version, 1.5 Cupcake, 1.6 Donut, 2.0 Éclair, 2.2 Froyo (Frozen Yogurt), 2.3 Gingerbread, 3.0 Honeycomb, 4.0 Ice Cream Sandwich, 4.1 Jelly Bean, 4.4 Kit Kat, 5.0 Lollipop      Source: page 8 in textbook</string>
+</resources>
