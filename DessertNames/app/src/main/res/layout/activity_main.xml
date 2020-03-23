@@ -7,8 +7,8 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:layout_width="327dp"
-        android:layout_height="180dp"
+        android:layout_width="323dp"
+        android:layout_height="174dp"
         android:text="@string/dessert_name"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.369"
